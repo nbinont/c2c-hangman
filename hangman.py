@@ -17,7 +17,8 @@ words = [
     "liquid",
     "suggestion",
     "weather",
-    "twist"
+    "twist",
+    "treat"
     ]
 
 def draw_hangman(num_wrong_guesses):
